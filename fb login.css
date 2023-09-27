@@ -1,0 +1,55 @@
+.container{
+    width: 80%;
+
+   background-color: rgb(19, 12, 114);
+   padding:40px;
+   margin-left:auto;
+   margin-right: auto;
+   margin-top: 60px;
+}
+.container h1{
+    text-align: center;
+    color:rgb(225, 225, 225);
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 5px rgb(0, 0, 0);
+}
+.container input{
+    padding: 5px 8px;
+    margin: 10px;
+    width: 98%;
+    border: none;
+    outline: none;
+}
+.container .btn{
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+}
+.container button{
+    padding: 5px 55px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: inherit;
+    font-size: 120%;
+    border: none;
+    color: rgb(225, 225, 225);
+    background-color: rgb(12, 12, 79);
+    cursor: pointer;
+}
+.container .sign{
+    text-align: center;
+}
+.container .sign a{
+    color: rgb(225, 225, 225);
+    
+}
+body{
+    background-color: rgb(19, 12, 114);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
